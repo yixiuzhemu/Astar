@@ -28,7 +28,7 @@ public class Node {
     public Node(){}
 
     /**
-     * 构造方法，通过传入终点坐标,计算当前点到重点的曼哈顿估值
+     * 构造方法，通过传入终点坐标,计算当前点到终点的曼哈顿估值
      * @param x
      * @param y
      * @param currentX
